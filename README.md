@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-FULL STACK DEVELOPER | BACKEND DEVELOPER | MERN | SQL<br>
+FULL STACK DEVELOPER | BACKEND DEVELOPER | JAVA | PYTHON | HTML | SQL<br>
 
 
 ## 🌐 Socials:
